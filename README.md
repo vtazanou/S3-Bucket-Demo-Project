@@ -1,5 +1,9 @@
-# learn-terraform-circleci
+# Terraform Project Demo
 
-Supplemental repository for Learn content on CircleCI.
+In order to complete this tutorial, you will need the following:
 
-For a full step by step guide, see the accompanying guide at [HashiCorp Learn](https://learn.hashicorp.com/terraform/development/circle).
+A GitHub account
+
+An AWS account.
+
+A Terraform Cloud account.
