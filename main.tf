@@ -3,7 +3,6 @@ provider "aws" {
 
 }
 
-resource "random_uuid" "randomid" {}
 
 resource "aws_s3_bucket" "app" {
   tags = {
