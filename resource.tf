@@ -3,7 +3,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      hashicorp-learn = "josh-S3"
+      hashicorp-learn = "AmazingDevOps.com"
     }
   }
 }
